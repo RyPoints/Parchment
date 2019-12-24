@@ -31,7 +31,7 @@ extension UIView {
       toItem: self,
       attribute: .leading,
       multiplier: 1.0,
-      constant: 0)
+      constant: 40)
     
     let trailingContraint = NSLayoutConstraint(
       item: subview,
